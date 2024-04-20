@@ -1,6 +1,6 @@
 ---
 title: Week 5 Lecture
-published_at: 2024-04-17
+published_at: 2024-04-16
 snippet: Glitch portrait Comments
 disable_html_sanitization: true
 ---
