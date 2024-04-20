@@ -27,7 +27,7 @@ disable_html_sanitization: true
       img_data = cnv.toDataURL ("image/jpeg")
       add_glitch ()
    }
-   img.src = `/w05/glitch.JPG`
+   img.src = `/w05/negative_print.jpg`
 
    const rand_int = max => Math.floor (Math.random () * max)
 
