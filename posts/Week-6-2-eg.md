@@ -1,5 +1,5 @@
 ---
-title: Week 6 Lecture 
+title: Week 6.2 Lecture 
 published_at: 2024-04-17
 snippet: Code Library (c2.js)
 disable_html_sanitization: true
